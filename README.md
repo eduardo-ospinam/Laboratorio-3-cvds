@@ -13,6 +13,9 @@
 ### Compilar y Ejecutar:
 
 1. Ejecute los comandos necesarios de Maven, para compilar el proyecto y verificar que el proyecto se creó correctamente y los cambios realizados al archivo pom no generan inconvenientes.
-2. Busque el comando requerido para ejecutar las pruebas unitarias de un proyecto desde Maven y ejecútelo sobre el proyecto. Se debe ejecutar la clase AppTest con resultado exitoso.
 
 ![](https://i.postimg.cc/Y0wknsn1/maven-12.jpg)
+
+2. Busque el comando requerido para ejecutar las pruebas unitarias de un proyecto desde Maven y ejecútelo sobre el proyecto. Se debe ejecutar la clase AppTest con resultado exitoso.
+
+![](https://i.postimg.cc/CLhC9LfQ/maven-13.jpg)
