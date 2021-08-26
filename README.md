@@ -28,4 +28,4 @@
 ![](https://i.postimg.cc/0NfrM3vX/maven-15.jpg)
 
 ### Ejecutar pruebas: 
- ![](https://i.postimg.cc/0NfrM3vX/maven-15.jpg)
+ ![](https://i.postimg.cc/8Pzh4Rc0/maven-16.jpg)
