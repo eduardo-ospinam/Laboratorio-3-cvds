@@ -36,3 +36,12 @@
 ![](https://i.postimg.cc/1X0GZcYF/maven18.jpg)
 ![](https://i.postimg.cc/FF0gcNsK/maven19.jpg)
 ![](https://i.postimg.cc/7h4zXJYZ/maven20.jpg)
+
+### ejercicios descuento trifas:
+
+#### Creacion dependencias aerodescuentos:
+![](https://i.postimg.cc/FK9sPb0q/maven-21.jpg)
+
+#### Creacion de tarifas test
+
+![](https://i.postimg.cc/g2K6k2DC/maven22.jpg)
