@@ -23,9 +23,16 @@
 ### Ejercicio Registraduria
 
 
-### Esqueleto de la palicacion:
+### Esqueleto de la aplicacion:
 
 ![](https://i.postimg.cc/0NfrM3vX/maven-15.jpg)
+![](https://i.postimg.cc/gJZygPVN/maven17.jpg)
 
 ### Ejecutar pruebas: 
  ![](https://i.postimg.cc/8Pzh4Rc0/maven-16.jpg)
+
+### Finalizacion del ejercicio:
+
+![](https://i.postimg.cc/1X0GZcYF/maven18.jpg)
+![](https://i.postimg.cc/FF0gcNsK/maven19.jpg)
+![](https://i.postimg.cc/7h4zXJYZ/maven20.jpg)
