@@ -8,17 +8,19 @@ public class Registry {
     	if(p.getAge() < 18 && p.getAge() >= 0) {
     		return RegisterResult.UNDERAGE;
     	}
-    	else if(p.getAge() < 0 && p.getAge() >= 110) {
+    	else if(p.getAge() < 0 || p.getAge() >= 110) {
     		return RegisterResult.INVALID_AGE;
     	}
     	else if(p.isAlive() == false) {
     		return RegisterResult.DEAD;
     	}
+    	
 		for(Person per: personRegistry){
 			if(p.getId() == per.getId()){
 				return RegisterResult.DUPLICATED;
 			}
 		}
+		personRegistry.add(p);
         return RegisterResult.VALID;
         
     }
