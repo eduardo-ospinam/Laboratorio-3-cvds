@@ -45,3 +45,14 @@
 #### Creacion de tarifas test
 
 ![](https://i.postimg.cc/g2K6k2DC/maven22.jpg)
+
+### implementacion de las pruebas:
+![](https://i.postimg.cc/HkY3tvMr/maven25.jpg)
+![](https://i.postimg.cc/sgTmHPPw/maven26.jpg)
+![](https://i.postimg.cc/cJjm0sb3/maven27.jpg)
+
+
+### git ignore:
+
+![](https://i.postimg.cc/tJFDBLDx/maven23.jpg)
+![](https://i.postimg.cc/8PBtMg78/maven24.jpg)
