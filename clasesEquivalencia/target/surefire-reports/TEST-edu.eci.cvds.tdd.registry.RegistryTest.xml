@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="6" failures="0" name="edu.eci.cvds.tdd.registry.RegistryTest" time="0.005" errors="0" skipped="0">
+<testsuite tests="6" failures="0" name="edu.eci.cvds.tdd.registry.RegistryTest" time="0.002" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_301\jre\bin"/>
@@ -64,10 +64,10 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="edu.eci.cvds.tdd.registry.RegistryTest" name="mustValidateRegistryResultInvalidAge" time="0.004"/>
+  <testcase classname="edu.eci.cvds.tdd.registry.RegistryTest" name="mustValidateRegistryResultInvalidAge" time="0.001"/>
   <testcase classname="edu.eci.cvds.tdd.registry.RegistryTest" name="mustValidateRegistryResultDuplicated" time="0"/>
-  <testcase classname="edu.eci.cvds.tdd.registry.RegistryTest" name="mustValidateRegistryResultUnderage" time="0"/>
+  <testcase classname="edu.eci.cvds.tdd.registry.RegistryTest" name="mustValidateRegistryResultUnderage" time="0.001"/>
   <testcase classname="edu.eci.cvds.tdd.registry.RegistryTest" name="mustValidateRegistryResultInvalidAge2" time="0"/>
-  <testcase classname="edu.eci.cvds.tdd.registry.RegistryTest" name="validateRegistryResult" time="0.001"/>
+  <testcase classname="edu.eci.cvds.tdd.registry.RegistryTest" name="validateRegistryResult" time="0"/>
   <testcase classname="edu.eci.cvds.tdd.registry.RegistryTest" name="mustValidateRegistryResultDead" time="0"/>
 </testsuite>
